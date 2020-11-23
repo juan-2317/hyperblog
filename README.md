@@ -4,3 +4,5 @@ Un blog increíble para el[ curso de Git y Github](https://platzi.com/cursos/git
 * Este curso me puede aportar mucho para mi vida profesional y eso lo agradezco
 
 * Espero te guste el blog y puedas seguirme en mis redes sociales como **@juanreinaguti**
+
+* Creado por el increíble Platzi Team y Juan
